@@ -7,11 +7,8 @@ date: 2020-04-17T10:02:17-04:00
 draft: false 
 
 toc: false 
-
 images: 
-
 tags:  
-
   - Azure
   - Azure DevOps 
   - CI/CD Pipelines
@@ -20,11 +17,12 @@ tags:
 --- 
 
  
-Short-hand: 
-  - Azure DevOps - ADO 
-  - Continuous Deployment - CD  
-  - Continuous Integration - CI 
-  - VS - Visual Studio 
+tags:  
+
+  - Azure
+  - Azure DevOps 
+  - CI/CD Pipelines
+  - Azure App Service Plans
 
 In this blog I will give you an overview of Microsoft App Service plans, how to create and app Service Plan and finally how to create an App Service. We will talk about options on how to deploy code to App Services. To kick this off let me give you an overview of Microsoft App Service Plan.  
 
